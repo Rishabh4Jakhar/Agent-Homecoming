@@ -1,5 +1,5 @@
 # Agent-Homecoming
-A story made by [me]("https://discord.com/users/713056818972066140") for MMOK Story Mode Map Comp. Anyone is free to use this story. Depends on creator to give credit
+A story made by [me](https://discord.com/users/713056818972066140) for MMOK Story Mode Map Comp. Anyone is free to use this story. Depends on creator to give credit
 
 # Story
 ## Beginning 
@@ -35,4 +35,4 @@ Dear son, if you have this box, then I am missing or presumed dead. Or worse, ac
 *With these a series of challenges begin for you, where you need to protect your family, know about bitter truths, come across with your old friends and real mother. Things can get dangerous but you are determined to find about the death of your father and will do whatever it takes to find it. But will you be able to do with people you have never met. Can you trust them ? Will you be able to survive on your own money ? Will your homecoming be beneficial ? One mistake and you will be dead.*
 
 # Note
-With this story starts, along with a lot of custom challenges you can make using krunkscript, gui, css and triggers. If you want more information on these or examples of challenges or have suggestion/bugs, contact me on [discord]("https://discord.com/users/713056818972066140")
+With this story starts, along with a lot of custom challenges you can make using krunkscript, gui, css and triggers. If you want more information on these or examples of challenges or have suggestion/bugs, contact me on [discord](https://discord.com/users/713056818972066140)
