@@ -15,7 +15,7 @@ Fade out to close the scene
 
 You were 11 years old when your father sent you to Brecker's School for the gifted. It was a boarding school and you stayed there for 7 years. You had just graduated from the school and your father was there for your graduation. You both were coming back home in car (*dramatic music starts playing using triggers/ks*), when your car crashed. Our father died in the crash (*music slows down in volume*). And.. and you went in coma (*Music rises again*).  It's been 11 months since. (*Music ends*)
 
-You ask your sister few questions like, "How did the accident happened ?" , "Who all knew about this accident ?" and most importantly, "Was it an **accident ?** "
+You ask your sister few questions like, "How did the accident occur ?" , "Who all knew about this accident ?" and most importantly, "Was it an **accident ?** "
 After that you go to rest.
 
 **4 Weeks Later**
@@ -24,7 +24,7 @@ It's been 4 weeks since you woke up. There have been many physical and mental th
 
 ## 2 Lifes
 
-After getting accommodated to your new house, your step-sister, Alexandria and your step-mother, Jessica, you go to your father's lawyers to read out the will. Norton, your father's lawyer tells you about 2 wills and estates. Your father, Michael Roberts, a real estate broker and family man had 2 lifes. His real name was Johnathan Von Horne. He legally changed his name before meeting your real mother and step mother. The Von Horne will states you as the sole owner of all his properties and funds. Roberts will states you as the owner of the funds for your studies (me, Chloe and Alexandria). You have 40% ownership in house, chloe has 40% and Alexandria + Jessica = 20%. You are 50% co owners in Jessica's coffee shop and her sister Elizabeth's bakery. You also receive a box which has a letter from your father from you. You leave the building to go home and rest in park.
+After getting accommodated to your new house, your step-sister, Alexandria and your step-mother, Jessica, you go to your father's lawyers to read out the will. Norton, your father's lawyer tells you about 2 wills and estates. Your father, Michael Roberts, a real estate broker and family man had 2 lifes. His real name was Johnathan Von Horne. He legally changed his name before meeting your real mother and step mother. The Von Horne will state you as the sole owner of all his properties and funds. Roberts will states you as the owner of the funds for your studies (me, Chloe and Alexandria). You have forty percent ownership in house, chloe has forty percent and Alexandria and Jessica have twenty percent combined. You are fifty percent co owners in Jessica's coffee shop and her sister Elizabeth's bakery. You also receive a box which has a letter from your father from you. You leave the building to go home and rest in park.
 
 ## The Letter
 
